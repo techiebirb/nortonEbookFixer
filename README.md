@@ -14,7 +14,7 @@ When friends lose their textbook or are away from home without the online versio
 
 These two scripts work together: one extracts the raw page for full copy/print access, and the other cleans up the layout so reading doesn't feel like staring through a mail slot.
 
-> Claude helped with parts of the implementation.
+> Claude helped with parts of the implementation and this README.md.
 
 ## Installation
 
